@@ -127,7 +127,7 @@
   <section id="contact">
     <h2 class="section-title">Contact Us</h2>
     <p>Email: vidigoteam@gmail.com</p>
-    <p>WhatsApp: <a href="https://wa.me/8004857915" target="_blank">Click to Chat</a></p>
+    <p>WhatsApp: <a href="https://wa.me/8004857916" target="_blank">Click to Chat</a></p>
   </section>
 
   <footer>
