@@ -11,32 +11,6 @@
       background: #f7f7f7;
       color: #222;
     }
-
-
-https://github.com/user-attachments/assets/b726a82d-b19a-4ad7-9186-f82fbdf1e171
-
-
-
-https://github.com/user-attachments/assets/5a53621d-5c67-4bec-8a64-2af166e2d672
-
-![Screenshot_2025-07-02-12-38-09-39_f9ee0578fe1cc94de7482bd41accb329](https://github.com/user-attachments/assets/353a46f7-2e3b-46b7-b571-a931699e73af)
-
-
-https://github.com/user-attachments/assets/f08ad4ba-a3c5-4116-aef4-2ab8fd82063b
-
-
-https://github.com/user-attachments/assets/0d6639c1-e10a-45f0-875b-284ac60fb4b2
-
-
-
-
-https://github.com/user-attachments/assets/67fc2513-def2-4d79-ac7c-e9b95876abc1
-
-
-https://github.com/user-attachments/assets/2ee9dba2-ec3a-4daf-9707-feeb0a923302
-
-
-
     header {
       background-color: #1a1a1a;
       color: white;
