@@ -119,15 +119,15 @@
     <p>We’re hiring editors, lead generators & closers!</p>
     <div class="card">
       <a class="btn" href="https://forms.gle/https://docs.google.com/forms/d/e/1FAIpQLSdRUw74hgCYxLTZ3LV4ZbEyFjYXtTFr_ng1wAjJdPFQVftdNA/viewform?usp=header" target="_blank">Apply as Editor</a>
-      <a class="btn" href="https://forms.gle/](https://docs.google.com/forms/d/e/1FAIpQLSdRUw74hgCYxLTZ3LV4ZbEyFjYXtTFr_ng1wAjJdPFQVftdNA/viewform?usp=header)" target="_blank">Apply as Lead Generator</a>
+      <a class="btn" href="https://(https://docs.google.com/forms/d/e/1FAIpQLSdRUw74hgCYxLTZ3LV4ZbEyFjYXtTFr_ng1wAjJdPFQVftdNA/viewform?usp=header)" target="_blank">Apply as Lead Generator</a>
       <a class="btn" href="https://forms.gle/(https://docs.google.com/forms/d/e/1FAIpQLSdRUw74hgCYxLTZ3LV4ZbEyFjYXtTFr_ng1wAjJdPFQVftdNA/viewform?usp=header)" target="_blank">Apply as Sales Closer</a>
     </div>
   </section>
 
   <section id="contact">
     <h2 class="section-title">Contact Us</h2>
-    <p>Email: hello@vidigo.in</p>
-    <p>WhatsApp: <a href="https://wa.me/919999999999" target="_blank">Click to Chat</a></p>
+    <p>Email: vidigoteam@gmail.com</p>
+    <p>WhatsApp: <a href="https://wa.me/8004857915" target="_blank">Click to Chat</a></p>
   </section>
 
   <footer>
