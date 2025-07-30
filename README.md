@@ -118,9 +118,9 @@
     <h2 class="section-title">Join Our Team</h2>
     <p>We’re hiring editors, lead generators & closers!</p>
     <div class="card">
-      <a class="btn" href="https://forms.gle/YOUR_ACTUAL_EDITOR_FORM" target="_blank">Apply as Editor</a>
-      <a class="btn" href="https://forms.gle/YOUR_ACTUAL_LEAD_FORM" target="_blank">Apply as Lead Generator</a>
-      <a class="btn" href="https://forms.gle/YOUR_ACTUAL_SALES_FORM" target="_blank">Apply as Sales Closer</a>
+      <a class="btn" href="https://forms.gle/https://docs.google.com/forms/d/e/1FAIpQLSdRUw74hgCYxLTZ3LV4ZbEyFjYXtTFr_ng1wAjJdPFQVftdNA/viewform?usp=header" target="_blank">Apply as Editor</a>
+      <a class="btn" href="https://forms.gle/](https://docs.google.com/forms/d/e/1FAIpQLSdRUw74hgCYxLTZ3LV4ZbEyFjYXtTFr_ng1wAjJdPFQVftdNA/viewform?usp=header)" target="_blank">Apply as Lead Generator</a>
+      <a class="btn" href="https://forms.gle/(https://docs.google.com/forms/d/e/1FAIpQLSdRUw74hgCYxLTZ3LV4ZbEyFjYXtTFr_ng1wAjJdPFQVftdNA/viewform?usp=header)" target="_blank">Apply as Sales Closer</a>
     </div>
   </section>
 
